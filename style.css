@@ -1,10 +1,13 @@
 body{
     background-color:#49AB6D ;
     color:#000000 ;
+    font-family: Arial, sans-serif;
 }
 header{
     background-color:#CF9F58;
     color: #291800;
+    text-align: center;
+    padding: 30px;
 }
 
 h1{
