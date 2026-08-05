@@ -1,1 +1,19 @@
+body{
+    background-color:#49AB6D ;
+    color:#000000 ;
+}
+header{
+    background-color:#CF9F58;
+    color: #291800;
+}
 
+h1{
+    font-size: 36px;
+}
+h2{ 
+    color:#DBBB04 ;
+}
+p { 
+    font-size: 18px;
+    line-height: 1.6;
+}
