@@ -60,3 +60,15 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+button{
+    background-color:lawngreen;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:#49AB6D;
+}
