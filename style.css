@@ -72,3 +72,9 @@ button{
 button:hover{
     background-color:#49AB6D;
 }
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
