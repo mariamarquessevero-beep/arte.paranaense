@@ -1,6 +1,21 @@
+:root{
+    --cor-fundo:#49AB6D  ;
+    --cor-texto:#222222 ;
+    --cor-principal: #CF9F58;;
+    --cor-secundaria:#291800; ;
+    --cor-hover:#edf396 ;
+    --cor-superficie:white ;
+    --cor-card: #555555;
+    --cor-legenda: #edf396;
+    --cor-clara:lawngreen ;
+    --cor-rodape:#49AB6D ;
+
+}
+
+
 body{
     background-color:#49AB6D ;
-    color:#000000 ;
+    color:#222222 ;
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -15,7 +30,7 @@ h1{
     font-size: 36px;
 }
 h2{ 
-    color:#DBBB04 ;
+    color: #edf396;
 }
 p { 
     font-size: 18px;
@@ -75,7 +90,10 @@ button:hover{
 }
 
 .curtir {
-    display: block;
+display: block;
     width: fit-content;
     margin: 20px auto;
 }
+
+
+   
